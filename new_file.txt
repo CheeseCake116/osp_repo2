@@ -1,2 +1,3 @@
 git text
 new line from local
+new line from remote

@@ -1,3 +1,4 @@
 git text
 new line from local
 new line from remote
+I'm branch1

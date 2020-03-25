@@ -3,3 +3,4 @@ new line from local
 new line from remote
 I'm master
 I'm branch1
+I'm branch2
